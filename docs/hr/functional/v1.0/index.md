@@ -37,10 +37,6 @@ Twixio HRMS is a comprehensive Human Resource Management System (HRMS) software 
 
 ---
 
-<!-- ## Open-Source Foundation
-
-Twixio is built as an open-source solution, licensed under LGPL-2.1. This licensing structure positions it as a cost-effective alternative for organizations, while emphasizing flexibility and customization. The open-source framework allows users to adapt the system to their unique requirements and benefit from ongoing community-driven development. -->
-
 ## Comprehensive Modules
 
 Twixio HRMS distinguishes itself through a rich set of modules, collectively forming a complete HRMS suite:

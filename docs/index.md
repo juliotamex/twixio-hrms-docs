@@ -42,15 +42,6 @@ Twixio is a comprehensive Human Resource Management System (HRMS) software solut
 
 ---
 
-## Open-Source Foundation
-
-Twixio is built as an open-source solution, licensed under LGPL-2.1. This licensing structure positions it as a cost-effective alternative for organizations, while emphasizing flexibility and customization. The open-source framework allows users to adapt the system to their unique requirements and benefit from ongoing community-driven development.
-
-## **Open-Source Platform**
-
-Twixio is an open-source software licensed under the LGPL-3.0 license, making it a cost-effective and customizable choice for all types of organizations. The open-source foundation allows complete flexibility, enabling companies to adapt Twixio according to their specific needs while benefiting from community-driven improvements and updates.
-
-
 ## **Unified System for Business Management**
 
 Twixio connects HR and CRM operations into one workspace, removing data silos and ensuring smooth information flow across departments. Both systems share features like scheduling, reporting, analytics, and access control, helping businesses maintain consistency and transparency in all processes.
@@ -90,9 +81,3 @@ Twixio connects HR and CRM operations into one workspace, removing data silos an
 * **Advanced Filters:** Customize how data is viewed, sorted, or grouped.  
 * **Bulk Actions:** Perform mass updates, imports, exports, and deletions easily.  
 * **Secure Access:** Role-based permissions and activity tracking ensure data security.
-
-## **Tailored Adaptability**
-
-Twixio can be tailored to suit different business sizes and industries, from small teams to large enterprises. Its modular structure allows organizations to activate only the features they need and adjust workflows to fit their processes.
-
-Twixio provides reliable, open-source business management software for both employee and customer operations. Whether you want to streamline HR processes or strengthen customer relationships, Twixio offers simple, customizable, and efficient tools to help your organization grow.
