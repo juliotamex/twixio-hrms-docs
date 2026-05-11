@@ -3,10 +3,7 @@ outline: [2, 3]
 ---
 
 
-# **Twixio 🦍**
-Twixio is a Free and Open Source HRMS Software.
-
-<img width="1470" alt="Screenshot 2024-03-15 at 3 05 20 PM" src="https://github.com/twixio-opensource/twixio/assets/131998600/1317bd0a-03a8-40be-8fb2-ecb655bb5c13">
+# **Twixio HRMS**
 
 
 ## Python **Installation**

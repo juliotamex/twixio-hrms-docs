@@ -56,9 +56,6 @@ if (carbonOptions) {
               style="max-width: 130px;">
           </a>
         </span>
-        <a href="https://twixio.com" class="carbon-poweredby" target="_blank" rel="noopener sponsored">
-          Free and Open Source Hrms
-        </a>
       </span>
     </div>
   </div>

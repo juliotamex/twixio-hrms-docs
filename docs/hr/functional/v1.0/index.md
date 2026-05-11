@@ -4,19 +4,6 @@
 
 Twixio HRMS is a comprehensive Human Resource Management System (HRMS) software solution, offering a sophisticated and versatile platform designed to address the diverse and intricate needs of workforce management. With its holistic approach and modular architecture, Twixio HRMS stands out in the realm of HR technology.
 
-<!-- <div class="responsive-iframe">
-  <iframe
-    width="689"
-    height="500"
-    src="https://www.youtube.com/embed/e0Mqxl5yiJ0"
-    title="Overview of Twixio HRMS Software Features | Free & Open Source HR Software | All-in-One HR Software"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen
-  ></iframe>
-</div> -->
-
 <style>
   .responsive-iframe {
     position: relative;

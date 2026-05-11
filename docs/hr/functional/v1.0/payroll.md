@@ -5,11 +5,6 @@ outline: [2, 3]
 # Payroll
 
 Twixio HRMS Software offers a comprehensive and efficient [payroll module](https://www.twixio.com/features/payroll/) within its suite of features. The payroll software module in Twixio enables businesses to effectively manage employee allowances, deductions, taxes, and the generation of accurate payslips. With Twixio’s payroll software, you can streamline your payroll processes and ensure timely and accurate salary calculations for your employees.
-<!--
-<div class="responsive-iframe">
-    <iframe width="840" height="500" src="https://www.youtube.com/embed/NOI5UGXeAFc" title="How to Manage Payroll in Twixio HRMS Software? | Open Source Payroll Management Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
--->
 
 ## Dashboard Overview
 The **Payroll Dashboard** within the HRMS provides HR professionals with a comprehensive overview of payroll activities. The dashboard displays key metrics related to payslip processing, enabling users to monitor and manage payroll status effectively.
