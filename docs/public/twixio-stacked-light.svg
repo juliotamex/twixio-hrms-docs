@@ -1,0 +1,9 @@
+<svg width="120" height="100" viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Twixio — stacked lockup, light</title>
+  <!-- Arc mark centered at 60, 36, r=22 -->
+  <path d="M78,22 A22,22 0 1 1 43,36" fill="none" stroke="#1D9E75" stroke-width="4" stroke-linecap="round"/>
+  <path d="M43,36 A22,22 0 0 1 78,22" fill="none" stroke="#14130D" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="79.5" cy="29" r="3.5" fill="#1D9E75"/>
+  <!-- Wordmark -->
+  <text x="60" y="82" text-anchor="middle" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="500" letter-spacing="-0.4" fill="#14130D">Twixio</text>
+</svg>

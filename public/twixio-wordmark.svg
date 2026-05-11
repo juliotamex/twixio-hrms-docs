@@ -1,0 +1,6 @@
+<svg width="160" height="44" viewBox="0 0 160 44" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Twixio — wordmark only</title>
+  <text x="0" y="34" font-family="'Inter','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="500" letter-spacing="-0.7" fill="#14130D">Twixio</text>
+  <!-- Teal underline accent -->
+  <rect x="0" y="40" width="24" height="2.5" rx="1.2" fill="#1D9E75"/>
+</svg>
